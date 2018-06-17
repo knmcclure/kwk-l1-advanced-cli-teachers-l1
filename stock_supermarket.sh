@@ -19,9 +19,9 @@ mv delivery/lean_cuisine.txt freezer
 mv delivery/leeks.txt veggies
 mv delivery/milk.txt dairy
 mv delivery/mint_milano_cookies.txt dessert
-mv onion.txt veggies
-mv oreos.txt dessert
-mv potatoes.txt veggies
-mv salmon_steak.txt meat
-mv tiramisu_cake.txt dessert
-mv tomatoes.txt fruit
+mv delivery/onion.txt veggies
+mv delivery/oreos.txt dessert
+mv delivery/potatoes.txt veggies
+mv delivery/salmon_steak.txt meat
+mv delivery/tiramisu_cake.txt dessert
+mv delivery/tomatoes.txt fruit
